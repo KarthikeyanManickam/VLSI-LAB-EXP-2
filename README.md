@@ -1,14 +1,14 @@
 SIMULATION AND IMPLEMENTATION OF  COMBINATIONAL LOGIC CIRCUITS
 
-AIM: 
+**AIM:** 
 
  To simulate and synthesis ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using Vivado 2023.1.
 
-APPARATUS REQUIRED:
+**APPARATUS REQUIRED:**
 
 Vivado 2023.1
 
-Procedure:
+**PROCEDURE:**
 
 1. Open Vivado: Launch Xilinx Vivado software on your computer.
 
@@ -35,7 +35,7 @@ ENCODER
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/3cd1f95e-7531-4cad-9154-fdd397ac439e)
 
-# code
+# CODE
 ```
 module encoder(d,a,b,c) ;
 input [7:0]d;
@@ -150,7 +150,7 @@ endmodule
 
   
 
-Result:
+**RESULT:**
 
 Thus the simulation and synthesis ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using Vivado 2023.1 is verified successfully.
 
